@@ -1,0 +1,6 @@
+# for pycharm
+venv/
+/.idea/
+
+# for testing
+test.py
